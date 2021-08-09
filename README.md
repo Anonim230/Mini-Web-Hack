@@ -4,7 +4,7 @@ It have a lot of advatages:<br/>
 1.It has 3 languages(English, Russian and Uzbek)<br/>
 2.It's easy to use<br/>
 3.You can search IP's or save all IP's in 1 file<br/></p>
-<p>This program needs to hack IP cameras CCTV in the world. For setup you need to write these commands in Linux and Termux:</p>
+<p>This program needs to hack IP cameras CCTV in the world. For setup you need to write these commands in Linux or Termux:</p>
 <br/>
 <pre>
 <code>
